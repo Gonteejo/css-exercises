@@ -1,0 +1,19 @@
+.odd__lines{
+    background-color: #FFA7A7;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#id__01{
+    color: rgb(0, 0, 255);
+    font-size: 36px;
+}
+
+.odd__lines.cooler{
+    font-size: 24px;
+}
+
+#id__02{
+    background-color: #80FF80;
+    font-size: 24px;
+    font-weight: bold;
+}
